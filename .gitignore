@@ -3,3 +3,5 @@ echo "node_modules/
 target/
 .env
 *.log" > .gitignore
+/storage
+/config

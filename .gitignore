@@ -1,0 +1,5 @@
+echo "node_modules/
+.m2/
+target/
+.env
+*.log" > .gitignore
